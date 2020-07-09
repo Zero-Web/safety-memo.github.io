@@ -1,3 +1,3 @@
 # safety-memo
 
-https://github.com/Zero-Web/safety-memo.github.io
+[safety-memo](https://zero-web.github.io/)
