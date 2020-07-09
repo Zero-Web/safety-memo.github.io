@@ -1,0 +1,27 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "safety memo",
+				"enablePullDownRefresh": true
+			}			
+		}, {
+			"path": "pages/increase/increase",
+			"style": {
+				"navigationBarTitleText": "添加 memo"
+			}
+		}, {
+			"path": "pages/exportData/exportData",
+			"style": {
+				"navigationBarTitleText": "导出 memo"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "safety memo",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	}
+}
